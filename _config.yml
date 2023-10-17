@@ -1,5 +1,4 @@
 theme: minima
-minima:
-  skin: dark
+skin: dark
 title: RollingScones - Projects
 description: Complete post 2023 documentaion of all my projects
